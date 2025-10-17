@@ -72,7 +72,7 @@ Here are the primary technologies and languages I work with, organized by domain
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduAbeysinghe&layout=compact&langs_count=8&theme=buefy&hide_border=true&card_width=400" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduAbeysinghe&layout=compact&langs_count=8&theme=dark&hide_border=true&card_width=400" alt="Top Languages" />
   </a>
 </div>
 
