@@ -1,6 +1,7 @@
-<div align="center">
+<div align="center" style="background-image: url('https://user-images.githubusercontent.com/KavinduAbeysinghe/123456789/my-background-image.jpg'); background-size: cover; background-position: center; padding: 50px 20px; border-radius: 10px; margin-bottom: 30px;">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajU3MjN1ZTFtbm10b3BnaW92eW1zdXV1bWlzcG5kMjRpZ210ZzBmbCZlcD12MV9pbnRlcm5hbF9naWZfY3JlYXRlZCZjdD1n/qgQUf66w0TjX80tV94/giphy.gif" width="60" />
-  <h1>Hi there! I'm Kavindu 👋</h1>
+  <h1 style="color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);">Hi there! I'm Kavindu 👋</h1>
+  <p style="color: white; text-shadow: 1px 1px 2px rgba(0,0,0,0.7); font-size: 1.1em;">Passionate Full-Stack Developer | Innovating with Modern Web & Mobile Technologies</p>
 </div>
 
 ---
@@ -67,17 +68,32 @@ Here are the primary technologies and languages I work with, organized by domain
 
 ---
 
+### 📊 My GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduAbeysinghe&layout=compact&langs_count=8&theme=buefy&hide_border=true&card_width=400" alt="Top Languages" />
+  </a>
+</div>
+
+---
+
 ### 📬 Get In Touch
 
-| Platform | Link |
-| :--- | :--- |
-| **LinkedIn** | [Connect with me on LinkedIn](Your_LinkedIn_URL) |
-| **Portfolio/Website** | [Check out my work](Your_Portfolio_URL_if_available) |
-| **Email** | [Your.Email@example.com](mailto:Your.Email@example.com) |
-
-<br>
-
-**Feel free to reach out—I'm always open to new opportunities and collaborations!**
+<p align="center">
+  <a href="Your_LinkedIn_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="Your_Portfolio_URL_if_available" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:Your.Email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+<p align="center">
+  **Feel free to reach out—I'm always open to new opportunities and collaborations!**
+</p>
 
 <br>
 <br>
